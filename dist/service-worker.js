@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.ea3e2c927169b883aa37597e031b85b0.js"
+  "precache-manifest.d83eaa69df26c2a78cc9384d59808139.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "au-ui3.x"});
